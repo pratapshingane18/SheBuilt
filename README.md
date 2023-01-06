@@ -1,7 +1,7 @@
 # SheBuilt 2k22
 
 Team: 
-Pratap Shingane 
-Pratham Yadav
-Vaishnavi Disale
-Nidhish Chauhan
+Pratap Shingane </br>
+Pratham Yadav  </br>
+Vaishnavi Disale  </br>
+Nidhish Chauhan  </br>
